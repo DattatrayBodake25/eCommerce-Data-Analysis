@@ -1,4 +1,4 @@
-# Data Science Assignment: eCommerce
+# eCommerce Data Analysis
 
 ## Overview
 This repository contains the work done for an eCommerce data analysis assignment. The task involved performing Exploratory Data Analysis (EDA), building a Lookalike Model, and implementing customer segmentation using clustering techniques. The dataset includes customer, product, and transaction information, and the goal was to derive actionable insights, recommend similar customers, and segment customers for better business strategy.
